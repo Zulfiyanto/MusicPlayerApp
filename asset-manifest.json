@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MusicPlayerApp/static/css/main.39f61e72.chunk.css",
-    "main.js": "/MusicPlayerApp/static/js/main.a14531fb.chunk.js",
-    "main.js.map": "/MusicPlayerApp/static/js/main.a14531fb.chunk.js.map",
+    "main.js": "/MusicPlayerApp/static/js/main.d65b841b.chunk.js",
+    "main.js.map": "/MusicPlayerApp/static/js/main.d65b841b.chunk.js.map",
     "runtime-main.js": "/MusicPlayerApp/static/js/runtime-main.4c3a19af.js",
     "runtime-main.js.map": "/MusicPlayerApp/static/js/runtime-main.4c3a19af.js.map",
     "static/js/2.7b0969e2.chunk.js": "/MusicPlayerApp/static/js/2.7b0969e2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4c3a19af.js",
     "static/js/2.7b0969e2.chunk.js",
     "static/css/main.39f61e72.chunk.css",
-    "static/js/main.a14531fb.chunk.js"
+    "static/js/main.d65b841b.chunk.js"
   ]
 }
